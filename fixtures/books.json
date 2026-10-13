@@ -1,0 +1,46 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The Orchard at Dusk",
+      "author": "Mara Ellison",
+      "notes": "A quiet novel about returning home. Save for a rainy weekend.",
+      "status": "want_to_read"
+    },
+    {
+      "id": 2,
+      "title": "Salt Roads",
+      "author": "Teodor Vance",
+      "notes": "Halfway through. The chapter on the winter crossing is the best thing I've read this year — reread the lighthouse scene before book club on Thursday.",
+      "status": "reading"
+    },
+    {
+      "id": 3,
+      "title": "A Field Guide to Small Weather",
+      "author": "Inès Okafor-Lindqvist",
+      "notes": "",
+      "status": "want_to_read"
+    },
+    {
+      "id": 4,
+      "title": "The Cartographer's Daughter and the Long Year of Unmapped Rivers",
+      "author": "Hollis Marchetti",
+      "notes": "Recommended by Priya.\nShe said to skip the prologue and come back to it at the end; the map in the endpapers matters more than it seems.\n\nLong, slow and worth it. Probably a summer book.",
+      "status": "want_to_read"
+    },
+    {
+      "id": 5,
+      "title": "Glasshouse Letters",
+      "author": "Ruth Abernathy",
+      "notes": "Epistolary, two sisters, one greenhouse. Read a letter a night.",
+      "status": "reading"
+    },
+    {
+      "id": 6,
+      "title": "Nine Lanterns",
+      "author": "Kenji Arobe",
+      "notes": "Finished in two sittings. Lent my copy to Sam.",
+      "status": "finished"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+.kandev/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+node_modules/
+test-results/
+playwright-report/
